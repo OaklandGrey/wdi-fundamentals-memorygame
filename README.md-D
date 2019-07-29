@@ -1,2 +1,2 @@
 # wdi-fundamentals-memorygame
-Domo's Memory Game for GA WDI
+Domo's Memory Game for GA 
